@@ -6,4 +6,4 @@
 
 - new feature done
 
-- this is crazy new feature
+- this is crazy new updated feature
